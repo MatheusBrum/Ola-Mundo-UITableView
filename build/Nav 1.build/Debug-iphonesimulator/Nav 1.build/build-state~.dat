@@ -1,0 +1,246 @@
+TNav 1
+v7
+r0
+t277850964.800748
+cCheck dependencies
+cProcessInfoPlistFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Info.plist" Nav_1-Info.plist
+cCompileXIB "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/MainWindow.xib"
+cCompileXIB "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/RootViewController.xib"
+cProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_1_Prefix-cswdktuekvnxaifrxsfhniezsztx/Nav_1_Prefix.pch.gch Nav_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/main.o" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/Nav_1AppDelegate.o" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/Nav_1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/RootViewController.o" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1" normal i386
+cGenerateDSYMFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app.dSYM" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1"
+cTouch "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004A7690A400000000000000EE
+t1249284260
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026DB00
+t1242278438
+s2546432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000260C20
+t1242278711
+s2493472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001432D80
+t1242349407
+s21179776
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/usr/include/Availability.h
+c000000004A0BAC5D00000000000019D8
+t1242279005
+s6616
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/Nav_1AppDelegate.h
+c000000004A749A5600000000000001B5
+t1249155670
+s437
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/Nav_1AppDelegate.m
+c000000004A749A56000000000000032F
+t1249155670
+s815
+i"Nav_1AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.h
+c000000004A749A5600000000000000D1
+t1249155670
+s209
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m
+c000000004A83C7E60000000000000484
+t1250150374
+s1156
+i"RootViewController.h"
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/MainWindow.xib
+c000000004A749A560000000000002C20
+t1249155670
+s11296
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Nav_1_Prefix.pch
+c000000004A749A56000000000000013C
+t1249155670
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/RootViewController.xib
+c000000004A74F6C00000000000001F1F
+t1249179328
+s7967
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app
+t1256158164
+s238
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app.dSYM
+t1256158164
+s102
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Info.plist
+t1249155746
+s538
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/MainWindow.nib
+t1249155746
+s2010
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1
+t1256158164
+s20576
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/PkgInfo
+t1249155746
+s8
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/RootViewController.nib
+t1249179343
+s1401
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/Nav 1.LinkFileList
+c000000004ADF73D30000000000000257
+t1256158163
+s599
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/Nav_1AppDelegate.o
+t1256158164
+s39608
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/RootViewController.o
+t1256158164
+s32324
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/main.o
+t1256158164
+s6088
+
+N/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/main.m
+c000000004A749A560000000000000168
+t1249155670
+s360
+i<UIKit/UIKit.h>
+
+N/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_1_Prefix-cswdktuekvnxaifrxsfhniezsztx/Nav_1_Prefix.pch.gch
+t1256158164
+s12957072
+
+NNav_1-Info.plist
+c000000004A749A56000000000000038D
+t1249155670
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies277850963#277850963#0(0"0(0#1#0"2416090432#0"0#
+
+CCompileC "build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/Nav_1AppDelegate.o" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/Nav_1AppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277850964.585840
+e277850964.646273
+r1
+xCompileC
+xbuild/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/Nav_1AppDelegate.o
+x/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/Nav_1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@146"Compile /Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/Nav_1AppDelegate.m277850964#277850964#0(0"0(0#0#138"/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/Nav_1AppDelegate.m2416090432#2674"    cd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-generated-files.hmap" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-own-target-headers.hmap" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-all-target-headers.hmap" -iquote "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-project-headers.hmap" "-F/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/include" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/DerivedSources/i386" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/DerivedSources" -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_1_Prefix-cswdktuekvnxaifrxsfhniezsztx/Nav_1_Prefix.pch -c "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/Nav_1AppDelegate.m" -o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/Nav_1AppDelegate.o"0#
+
+CCompileC "build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/RootViewController.o" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277850964.633810
+e277850964.708883
+r1
+xCompileC
+xbuild/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/RootViewController.o
+x/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m:46: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)
+lSLF07#2@148"Compile /Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m277850964#277850964#0(561"/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m:46: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)1(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:199)277850964#211#348#0(6@140"/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m271843174#46#0#46#0#33"'*' is deprecated (declared at *)0(0#0#140"/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m2416090432#2678"    cd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-generated-files.hmap" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-own-target-headers.hmap" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-all-target-headers.hmap" -iquote "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-project-headers.hmap" "-F/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/include" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/DerivedSources/i386" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/DerivedSources" -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_1_Prefix-cswdktuekvnxaifrxsfhniezsztx/Nav_1_Prefix.pch -c "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Classes/RootViewController.m" -o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC "build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/main.o" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s277850964.584616
+e277850964.633711
+r1
+xCompileC
+xbuild/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/main.o
+x/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/main.m277850964#277850964#0(0"0(0#0#118"/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/main.m2416090432#2642"    cd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-generated-files.hmap" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-own-target-headers.hmap" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-all-target-headers.hmap" -iquote "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-project-headers.hmap" "-F/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/include" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/DerivedSources/i386" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/DerivedSources" -include /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_1_Prefix-cswdktuekvnxaifrxsfhniezsztx/Nav_1_Prefix.pch -c "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/main.m" -o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/RootViewController.xib"
+r0
+
+CGenerateDSYMFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app.dSYM" "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1"
+s277850964.760380
+e277850964.798483
+r1
+xGenerateDSYMFile
+x/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app.dSYM
+x/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1
+lSLF07#2@107"GenerateDSYMFile "build/Debug-iphonesimulator/Nav 1.app.dSYM" "build/Debug-iphonesimulator/Nav 1.app/Nav 1"277850964#277850964#0(0"0(0#0#155"/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 12416090432#602"    cd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1" -o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app.dSYM"0#
+
+CLd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1" normal i386
+s277850964.709034
+e277850964.760250
+r1
+xLd
+x/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1
+xnormal
+xi386
+lSLF07#2@160"Link /Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1277850964#277850964#0(0"0(0#0#0"2416090432#1227"    cd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk "-L/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator" "-F/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator" -filelist "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Objects-normal/i386/Nav 1.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Nav 1"0#
+
+CProcessInfoPlistFile "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app/Info.plist" Nav_1-Info.plist
+r0
+
+CProcessPCH /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_1_Prefix-cswdktuekvnxaifrxsfhniezsztx/Nav_1_Prefix.pch.gch Nav_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s277850963.804300
+e277850964.584477
+r1
+xProcessPCH
+x/var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_1_Prefix-cswdktuekvnxaifrxsfhniezsztx/Nav_1_Prefix.pch.gch
+xNav_1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Nav_1_Prefix.pch277850963#277850964#0(0"0(0#0#128"/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Nav_1_Prefix.pch2416090432#2461"    cd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-generated-files.hmap" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-own-target-headers.hmap" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-all-target-headers.hmap" -iquote "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/Nav 1-project-headers.hmap" "-F/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/include" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/DerivedSources/i386" "-I/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Nav 1.build/Debug-iphonesimulator/Nav 1.build/DerivedSources" -c "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/Nav_1_Prefix.pch" -o /var/folders/i7/i7PeuHOKHby2ot+nws8Yq++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nav_1_Prefix-cswdktuekvnxaifrxsfhniezsztx/Nav_1_Prefix.pch.gch0#
+
+CTouch "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app"
+s277850964.798563
+e277850964.800722
+r1
+xTouch
+x/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app
+lSLF07#2@155"Touch /Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app277850964#277850964#0(0"0(0#0#0"2416090432#426"    cd "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/MatheusBrum/Desktop/Developer/AppleManíacos/Screencast/Cocoa Touch/Ola Mundo-UITableView/UITableView 1/build/Debug-iphonesimulator/Nav 1.app"0#
+
